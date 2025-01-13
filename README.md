@@ -1,4 +1,4 @@
-# 🧑‍💻 João Pedro
+# 🧑‍💻 Lucas Catonho
 
 **`Desenvolvedor FullStack`**
 
