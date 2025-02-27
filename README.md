@@ -1,10 +1,10 @@
 # 🧑‍💻 Lucas Catonho
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Font-End`**
 
 
 ​
 
-Olá, meu nome é Lucas Catonho do Vale, tenho 18 anos e me interesso pela área da tecnologia desde sempre. Sempre gostei de mexer com essas coisas, mas um ano antes da pandemia foi quando tive o primeiro contato com a programação, ao fazer o curso de Lógica de Programação EAD pelo Senai, e dali não parei. Um ano depois, entrei na ETEC, onde cursei o Ensino Médio com a Habilitação Técnica em Desenvolvimento de Sistemas. Atualmente, busco uma vaga de emprego como desenvolvedor fullstack
+Olá, meu nome é Lucas Catonho do Vale, tenho 18 anos e me interesso pela área da tecnologia desde sempre. Sempre gostei de mexer com essas coisas, mas um ano antes da pandemia foi quando tive o primeiro contato com a programação, ao fazer o curso de Lógica de Programação EAD pelo Senai, e dali não parei. Um ano depois, entrei na ETEC, onde cursei o Ensino Médio com a Habilitação Técnica em Desenvolvimento de Sistemas. Atualmente, busco uma vaga de emprego como desenvolvedor Font-End
 ## 💻 Linguagens e Tecnologias
 
 <img
