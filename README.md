@@ -74,7 +74,7 @@ Olá, meu nome é Lucas Catonho do Vale, tenho 18 anos e me interesso pela área
 </br>
 ## Outras redes 🛜
 
-<a href="https://www.linkedin.com/in/lucas-catonho-0b29552aa">
+<a href="www.linkedin.com/in/lucas-catonho-do-vale-966806353">
   <img
     align="left"
     alt="LINKEDIN"
